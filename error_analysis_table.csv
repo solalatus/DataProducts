@@ -1,0 +1,336 @@
+"area","mean"
+"Akadémiaújtelep",0.4664361111
+"Albertfalva",2.0991411696
+"Albertfalvai lakótelep",1.2812709382
+"Albertfalvai tisztviselőtelep",0.7962677888
+"Almáskert",0.8695830704
+"Alsórákos",2.9081933802
+"Alsórákos – Egressy téri lakótelep",0.5719089286
+"Alsórákos – Füredi utcai lakótelep",0.8333984527
+"Alsórákoshegy",3.6514137346
+"Alsórákos – Kacsóh Pongrác úti lakótelep",0.5634813539
+"Alsórákos – Mogyoródi–Jerney úti lakótelep",2.7191347325
+"Alsórákos – Nagy Lajos király úti lakótelep","NA"
+"Alsórákos – Paskálpark",1.1909406696
+"Angyalföld",3.6491544652
+"Angyalföld – Béke–Tatai utcai lakótelep",1.7679349329
+"Angyalföld – Fiastyúk utcai lakótelep",1.7789351959
+"Angyalföld – Gyöngyösi utcai lakótelep",1.3975075552
+"Angyalföld-Kertváros",0.9481334094
+"Angyalföld – Lőportárdűlő",1.8393165419
+"Angyalföld – Országbíró utcai lakótelep",1.1753264657
+"Aquincum",5.8506972876
+"Árpádföld",1.4796298664
+"Árpádföld – Szabadságtelep","NA"
+"Baross Gábor-telep",3.022246671
+"Békásmegyeri lakótelep Duna felől",0.5964024081
+"Békásmegyeri lakótelep hegy felől",0.879549771
+"Békásmegyer – Józsefhegy","NA"
+"Békásmegyer-Ófalu",10.8024819444
+"Békásmegyer – Pünkösdfürdő",1.1611439815
+"Békásmegyer – Pusztadomb",1.7466853593
+"Bélatelep","NA"
+"Belső-Erzsébetváros",4.4838390419
+"Belső-Ferencváros",2.2460785325
+"Belsőmajor","NA"
+"Belső-Terézváros",6.6951423903
+"Belváros",7.3440484721
+"Bókaytelep",3.800171412
+"Budafok",0.858916056
+"Budafok – Arany János utcai lakótelep",0.5973054623
+"Budafok-Belváros",0.2586704475
+"Budafok – Háros","NA"
+"Budafok – Kísérleti lakótelep",1.8552118105
+"Budafok – Leányka utcai lakótelep",0.6437881086
+"Budafok – Rózsavölgy",3.0158687795
+"Budafok – Vihar–Anna utcai lakótelep","NA"
+"Budakeszierdő",12.9133735431
+"Budatétény",1.0829323725
+"Budatétény – Rózsakert utcai lakótelep",1.9575261419
+"Cinkota",2.2382047134
+"Cinkota – Európa lakókert",1.8720738095
+"Cinkota – Honfoglalás lakópark",0.4996808862
+"Cinkota – Ilonatelep",2.6025055556
+"Cinkota – Malomdomb",0.4602182104
+"Csatárka",5.496512963
+"Csatárka – Látóhegy","NA"
+"Csepel – Ady Endre úti lakótelep",1.2561399458
+"Csepel-Belváros",0.7237128115
+"Csepel-Csillagtelep",0.6967925537
+"Csepel-Csillagtelep – Rakéta utcai lakótelep",0.4199523142
+"Csepel-Csillagtelep – Völgy utcai lakótelep",0.6962294099
+"Csepel-Erdőalja",2.5438154141
+"Csepel-Erdősor",1.0737514624
+"Csepel-Erdősor lakótelep",0.3165084342
+"Csepel-Gyártelep",1.4499015873
+"Csepel-Háros","NA"
+"Csepel-Háros – Vízművek lakótelep","NA"
+"Csepel-Kertváros",0.9889697059
+"Csepel-Királyerdő",1.6813794011
+"Csepel-Királymajor",0.3731883004
+"Csepel-Ófalu",2.050375
+"Csepel-Rózsadomb",1.5631954295
+"Csepel-Szabótelep",1.2820503834
+"Csillaghegy",0.8680302249
+"Csillaghegy – Forrásliget lakópark",1.686721633
+"Csillaghegy – Rókahegy",6.6564805268
+"Csillebérc",4.437106255
+"Csúcshegy",1.6168509319
+"Erdőskert","NA"
+"Erzsébetfalva",0.8712674241
+"Erzsébetfalva – Pesterzsébeti lakótelep",0.9894037876
+"Erzsébettelep",1.3804716094
+"Farkasrét",12.5144233962
+"Farkastorok",6.9259340829
+"Farkasvölgy",7.7428662302
+"Felhévíz",2.2508824173
+"Felsőkispest",0.8935340236
+"Felsőrákos",1.285387132
+"Felsőrákoshegy",0.9293780678
+"Ferihegy","NA"
+"Ganz-kertváros",1.4628353124
+"Ganztelep","NA"
+"Gazdagrét",3.5002728741
+"Gazdagréti lakótelep",0.9105893211
+"Gellérthegy",8.2323469785
+"Gloriett lakótelep",0.2786875
+"Gloriett-telep",3.6957055556
+"Gubacs",1.2805201389
+"Gubacsi lakótelep",0.6993791515
+"Gubacsipuszta",0.5601339781
+"Gubacsipuszta – Eperjes utcai lakótelep",0.4738366319
+"Gubacs – Mediterrán lakópark",2.5033597787
+"Gyakorló utcai lakótelep",0.626609021
+"Gyárdűlő",2.7221584634
+"Gyárdűlői lakótelep",0.8577839966
+"Hármashatárhegy","NA"
+"Harsánylejtő",3.7486188492
+"Hárshegy",4.727007326
+"Havanna lakótelep",0.7398370514
+"Herminamező",2.0719230782
+"Hosszúrét",3.7100255556
+"Hűvösvölgy",3.7980365633
+"II/A kerület – Adyliget",1.584865873
+"II/A kerület – Budaliget",2.3435589616
+"II/A kerület – Erzsébetliget","NA"
+"II/A kerület – Erzsébettelek",1.4811868061
+"II/A kerület – Hársakalja",1.6120697647
+"II/A kerület – Máriaremete",2.5683138431
+"II/A kerület – Pesthidegkút-Ófalu",2.7350671296
+"II/A kerület – Remetekertváros",4.491100744
+"II/A kerület – Széphalom","NA"
+"Istenhegy",4.6707570767
+"Istenhegy – Diósárok",7.5749027928
+"Istvánmező",2.1085381149
+"Istvántelek",1.1517153032
+"Jánoshegy",5.2966123409
+"József Attila lakótelep",1.0962790395
+"Józsefváros – Corvinnegyed",3.3012348407
+"Józsefváros – Csarnoknegyed",2.4594852609
+"Józsefváros – Ganznegyed",2.4189944775
+"Józsefváros – Losoncinegyed",2.2540223566
+"Józsefváros – Magdolnanegyed",1.811583551
+"Józsefváros – Népszínháznegyed",1.8615948933
+"Józsefváros – Orczynegyed",1.5683978409
+"Józsefváros – Palotanegyed",1.8691912946
+"Káposztásmegyer",4.5522253968
+"Káposztásmegyer – Homoktövis lakópark",1.3732045064
+"Káposztásmegyer II. lakótelep",1.3962579305
+"Káposztásmegyer I. lakótelep",0.8962046933
+"Kaszásdűlő","NA"
+"Kaszásdűlő – Filatorigát",3.4334216131
+"Kaszásdűlői lakótelep",0.5943660133
+"Kelenföld",3.2682777917
+"Kelenföld – Fehérvári úti lakótelep",2.6349895076
+"Kelenföldi lakótelep",1.7796498883
+"Kelenföld – Nádorliget lakópark",0.4713407749
+"Kelenvölgy",4.5706475694
+"Kerepesdűlő",0.9862790133
+"Keresztúridűlő",3.3328678271
+"Kispest",1.6782002556
+"Kispesti lakótelep",0.6677158311
+"Kispest-Kertváros",1.7657615741
+"Kispest-Óváros",1.0656187524
+"Kissvábhegy",5.0675313275
+"Kiszugló",2.7510346592
+"Kőbánya-Kertváros",7.1374451885
+"Kőbánya – Óhegy",2.1217506265
+"Kőbánya – Óhegyi lakótelep",0.6314813578
+"Kőbánya – Újhegy",1.9997195576
+"Kőbánya – Újhegyi lakótelep",0.8676946804
+"Kőbánya-Városközpont",1.3264338127
+"Kőérberek",1.1621484591
+"Kőérberek – Tóváros",5.4256952146
+"Kossuthfalva",2.3906582265
+"Kossuth Ferenc-telep","NA"
+"Középső-Erzsébetváros",2.4029024449
+"Középső-Ferencváros",3.21057659
+"Középső-Ferencváros – Malmok",5.1295777157
+"Középső-Ferencváros – Millenniumi városközpont",7.6405842262
+"Középső-Ferencváros – Rehabilitációs terület",2.3444470678
+"Krepuska Géza-telep",2.762608409
+"Krisztinaváros",2.5310100316
+"Krisztinaváros – Naphegy",1.1907076862
+"Krisztinaváros – Váralja",4.341138562
+"Krisztinaváros – Városmajor",1.0891177988
+"Külső-Erzsébetváros",1.70787073
+"Külső-Erzsébetváros – Ligetváros",1.919442062
+"Külső-Ferencváros",2.2931849299
+"Külső-Ferencváros – Aszódi utcai lakótelep","NA"
+"Külső-Terézváros",3.6030928222
+"Külső-Terézváros – Diplomatanegyed",6.8876890921
+"Kurucles",4.2709687883
+"Kúttó",0.6318022538
+"Kútvölgy",4.5689058435
+"Lágymányos",1.3600286886
+"Lágymányosi lakótelep",2.0600178771
+"Lágymányos – Műegyetem környéke",1.2901718463
+"Lakatos-lakótelep",0.5635812497
+"Laposdűlő",0.8843907399
+"Laposdűlő – Honvédségi lakótelep",3.4056909264
+"Laposdűlő – Pongrácz úti lakótelep",2.3857667635
+"Ligettelek",1.8592204867
+"Ligettelek – Tulipán lakókert","NA"
+"Lipótmező",3.0215059647
+"Lipótváros",8.9832718383
+"Liptáktelep",5.1014481124
+"Lónyaytelep","NA"
+"Madárhegy",4.5320299244
+"Magasút",4.7351534392
+"Mártonhegy",3.4069349954
+"Mátyásföld – Petőfikert",0.2999052855
+"Mátyáshegy",7.787970536
+"Megyer",1.6402631048
+"Megyer – Izzó lakótelep",1.1272045133
+"Megyer – Nagyváradi liget lakópark","NA"
+"Megyer – Szabolcska utcai lakótelep","NA"
+"Megyer – Szilaspatak lakópark","NA"
+"Miklóstelep",1.535847138
+"Mocsárosdűlő",0.2859442605
+"Nádorkert",0.8920329861
+"Nagytétény",2.4311908035
+"Nagytétény – Bartók Béla úti lakótelep",0.7219344011
+"Nagytétény – Óhegy",0.0648111111
+"Nagyzugló",2.526231657
+"Nagyzugló – Egressy téri lakótelep","NA"
+"Nagyzugló – Kerepesi úti lakótelep",0.8719047182
+"Nagyzugló – Vitézitelep","NA"
+"Németvölgy",3.1415756486
+"Népliget",0.1317915042
+"Nyék",11.4767787037
+"Óbuda – Filatorigát",0.9187388673
+"Óbudai lakótelep",1.099729491
+"Óbuda – Kísérleti lakótelep",4.3703438126
+"Óbuda – Lajos utcai lakótelep",2.206128593
+"Óbuda-Óváros",2.4653046383
+"Ómátyásföld",2.8254836927
+"Ómátyásföld – Erzsébetliget",0.0485
+"Orbánhegy",1.8694419489
+"Őrmező",2.2639657524
+"Őrmezői lakótelep",0.2725206851
+"Országút",2.4770207487
+"Pacsirtatelep",2.7900683165
+"Pálvölgy",9.6413532407
+"Pálvölgy – Látóhegy",14.5626972222
+"Pasarét",4.62087696
+"Pestújhely",1.4011067387
+"Péterhegy",0.545611131
+"Petneházyrét",6.6092582454
+"Pösingermajor",5.3894285714
+"Rákoscsaba",4.6740883028
+"Rákoscsaba-Újtelep",6.2866699735
+"Rákosfalva",1.0686618635
+"Rákoshegy","NA"
+"Rákoshegy – Helikopter lakópark",0.0176297619
+"Rákoskeresztúr",0.7744712326
+"Rákoskeresztúri lakótelep",1.0029304154
+"Rákoskeresztúr – Pesti úti lakópark",0.8936867785
+"Rákoskeresztúr – Színes házak",5.5131565781
+"Rákoskert",0.4523087272
+"Rákoskert – Strázsahegy",4.4634964998
+"Rákoskert – Szárazhegy",3.3195464947
+"Rákosliget",1.0110326116
+"Rákospalota",1.7406772874
+"Rákospalota – Csobogós utcai lakótelep",0.654763561
+"Rákospalota – Énekes utcai lakótelep",2.7486508625
+"Rákospalota-Kertváros",0.5462109547
+"Rákospalota – MÁV-telep",0.9008772836
+"Rákospalota – Szilas parki lakótelep",1.4341474537
+"Rákosszentmihály",3.5528551368
+"Rákosszentmihály – Kisszentmihály",2.2417027026
+"Rákosszentmihály – Pálya utcai lakótelep",0.0155662037
+"Rákosszentmihály – Szentgyörgytelep","NA"
+"Rákosszentmihály – Szent Korona lakótelep","NA"
+"Régiakadémiatelep",0.6554826389
+"Remetehegy",1.1195262167
+"Rendessytelep",0.5775859482
+"Rézmál",10.4772411303
+"Rómaifürdő",7.4510136362
+"Rómaifürdő – Pók utcai lakótelep",0.9963468421
+"Rómaifürdő – Rómaipart",4.9917770102
+"Rózsadomb",3.0172993756
+"Sasad",2.4199710999
+"Sashalom",0.7218641582
+"Sashalom – Egyenes utcai lakótelep",0.3264895833
+"Sashalom – Nagyiccetelep",0.493296744
+"Sashegy",9.3931298051
+"Soroksár",1.9944752315
+"Soroksár – Orbánhegy",1.0702787698
+"Soroksár-Újtelep",3.8199950419
+"Soroksár – Vargatelep","NA"
+"Spanyolrét",2.9427123347
+"Svábhegy",4.8249751068
+"Századosnegyed",2.4875513508
+"Széchenyihegy",10.5235885522
+"Székesdűlő",0.2703919974
+"Szemeretelep",1.149488721
+"Szemlőhegy",5.5461554583
+"Szent Imre-kertváros",1.8564136995
+"Szent Imre-kertváros – Kétújfalu utcai lakótelep","NA"
+"Szent Imre-kertváros – Királyhágó lakópark",1.3792133874
+"Szentimreváros",1.9369078826
+"Szent Lőrinc lakótelep",0.5378319022
+"Szépilona",5.9892326773
+"Szépvölgy",15.2836962692
+"Tabán",5.9358765708
+"Táborhegy",2.6870232143
+"Téglagyárdűlő",1.5144031167
+"Testvérhegy",6.5524043037
+"Testvérhegy – Óbuda lakókert",3.1446528177
+"Tisztviselőtelep",4.0494866873
+"Törökkő",1.1904256673
+"Törökkő – Gyógyszergyár utcai lakótelep","NA"
+"Törökőr",1.6417919122
+"Törökőr – Pillangó utcai lakótelep",1.7383575617
+"Törökvész",8.817609104
+"Újhegy – Rózsaliget lakópark",1.0543333055
+"Újlak",4.1951878081
+"Újlipótváros",3.7242020523
+"Újlipótváros – Cézárház",3.0856133581
+"Újlipótvárosi lakótelep",3.5063351168
+"Újlipótváros – Kleopátraház",1.5839510564
+"Újlipótváros – Rómaikert",4.0357028292
+"Újmátyásföld",0.4476690476
+"Újmátyásföld – Centenáriumi lakótelep",1.8264143659
+"Újpalota",0.9940905645
+"Újpest",1.9686409299
+"Újpesti ipari park",0.80528079
+"Újpesti lakótelep",1.3855181109
+"Újpest – Juharliget lakópark","NA"
+"Újpest-Kertváros",1.3519438267
+"Újpest-Központ",1.7864919302
+"Újpest – Pozsonyi utcai lakótelep",0.5546288151
+"Újpéteritelep",1.2482540029
+"Ürömhegy",6.2398875
+"Vár",4.0934840796
+"Városliget",7.5143244049
+"Vérhalom",7.5651557241
+"Virányos",1.9833317026
+"Vizafogó",5.5576397586
+"Vizafogó lakótelep",4.4434302298
+"Vizafogó – Marinapart",9.874786996
+"Víziváros",4.6592405113
+"Víziváros – Váralja",2.6630709672
+"Wekerletelep",1.4994082212
+"Zöldmál",8.731806152
+"Zugliget",5.1482763228
