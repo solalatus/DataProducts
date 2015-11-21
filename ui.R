@@ -20,7 +20,7 @@ shinyUI(
           )
         ),
         # Next time I learn CSS, I promise! :-P
-        tags$td("__________________________"),
+        tags$td("____________________________"),
         tags$td(
           div(
             h2("Predicting advertising prices"), 
@@ -28,7 +28,7 @@ shinyUI(
           ), align="left"
         ),
         # Next time I learn CSS, I promise! :-P
-        tags$td("__________________________"),
+        tags$td("____________________________"),
         tags$td(
           div(
             img(src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hungary_budapest_district_8.jpg/120px-Hungary_budapest_district_8.jpg', align = "right")
