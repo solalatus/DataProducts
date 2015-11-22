@@ -20,7 +20,7 @@ shinyUI(
           )
         ),
         # Next time I learn CSS, I promise! :-P
-        tags$td("___________________________"),
+        tags$td("____________________________"),
         tags$td(
           div(
             h2("Predicting advertising prices"), 
